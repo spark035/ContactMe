@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sam123:sam123@contactme.wi7fe.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://sam123:sam123@contactme.wi7fe.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "50L1D5N4K3"
 }
